@@ -1,0 +1,88 @@
+header{
+    font-family: 'Sriracha', cursive;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(255, 166, 0);
+}
+section{
+    margin-left: -6px;
+    margin-right: -6px;
+}
+nav{
+    background-color: skyblue;
+    padding-bottom: 30px;
+    text-indent: 35px;
+    margin-left: -6px;
+    margin-right: -6px;
+}
+nav a{
+    border: solid black 1px;
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
+}
+section#dos{
+    background-color: white;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+img#steve{
+    float: left;
+    height: 180px;
+    width: 260px;
+    position: relative;
+    top: -7px;
+}
+section#dos p{
+    color: blue;
+    margin-top: 0px;
+   
+}
+section#dos hr{
+    background-color: blue;
+    border-color: blue;
+    height: 25px;
+    position: relative;
+    bottom: 15px;
+    margin-bottom: -4px;
+    
+}
+section#tres{
+    background-color: skyblue;
+    height: auto;
+    padding-top: 35px;
+    padding-bottom: 55px;
+}
+section#tres p{
+    color: red;
+    margin-top: -5px;
+}
+section#tres hr{
+    background-color: red;
+    border-color:   red;
+    height: 25px;
+    margin-top: -10px;
+}
+img#mac{
+    float: right;
+    height: 200px;
+    width: 220px;
+    position: relative;
+    top: -10px;
+}
+footer{
+    background-color: salmon;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: -6px;
+    margin-right: -6px;
+    padding-bottom: 10px;
+}
+footer hr{
+    color: white;
+    background-color: white;
+}

@@ -1,0 +1,49 @@
+header{
+    font-family: 'Sriracha', cursive;
+    color: white;
+    text-align: center;
+    font-weight: bold;  
+}
+body{
+    background-color: rgb(255, 166, 0);
+}
+section{
+    margin-left: -6px;
+    margin-right: -6px;
+}
+nav{
+    background-color: skyblue;
+    padding-bottom: 30px;
+    text-indent: 35px;
+    margin-left: -6px;
+    margin-right: -6px;
+}
+a{
+    border: solid black 1px;
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
+}
+footer{
+    background-color: salmon;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: -6px;
+    margin-right: -6px;
+    padding-bottom: 10px;
+}
+footer hr{
+    color: white;
+    background-color: white;
+}
+section#dos{
+    background-color: blanchedalmond;
+    margin-left: 28px;
+    margin-right: 5px;
+}
+ul{
+    list-style-type: Katakana-iroha;
+}
+li{
+    margin-bottom: 10px;
+}
